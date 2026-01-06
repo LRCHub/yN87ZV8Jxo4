@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "睡キャン界隈",
+  "base_artist": "天音かなた",
+  "createdAt": "2026-01-06T07:17:50.190901Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "睡キャン界隈",
+      "artist": "天音かなた",
+      "has_synced": false,
+      "path": "select/pl_01_睡キャン界隈_天音かなた.txt"
+    }
+  ]
+}
